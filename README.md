@@ -1,9 +1,7 @@
 [![Header](https://c.tenor.com/lPjVxg0BXJ4AAAAM/gandalf-happy.gif)](https://t.me/dmitrygill)
 
 ## Hi! My name is Dmitry, I am a novice front-end developer.
-
 #
-
 ### Мои навыки | My skills:
 
 ![Html](https://img.shields.io/badge/-Html-ff5500?style=for-the-badge&logo=html5&logoColor=000)
@@ -30,29 +28,18 @@
 
  
  ### Чтобы я хотел изучить  в будущем:
- <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![MobX](https://img.shields.io/badge/-UNITY-turquoise?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/-ANGULAR-green?style=for-the-badge)
-
-
 #
 ## Связаться
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/ING_6)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](www.instagram.com/gelathoev)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/brauzer06)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)]()
-[![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=meda.oziev@mail.ru&from=otvet)
-
-
-
-<!-- [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/alexeyshpavda)
-[![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/alexeyshpavda) -->
+#
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dmitrygill)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/dmitrygil.png/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/dmitrygil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/dmitrygil1/)
+[![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=dmitrygil@mail.ru&from=otvet)
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrygil1&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrygil1&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
