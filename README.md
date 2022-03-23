@@ -22,7 +22,7 @@
 ![EenjeneringStuff](https://img.shields.io/badge/ENJENEERING-STUFF-black)
 
  
- ### Чтобы я хотел изучить  в будущем | I want to learn:
+ ### Планирую изучить в будущем | I want to learn:
 ![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![MobX](https://img.shields.io/badge/-UNITY-turquoise?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/-ANGULAR-green?style=for-the-badge)
