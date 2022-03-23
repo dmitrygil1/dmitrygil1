@@ -1,6 +1,4 @@
-[![Header](https://c.tenor.com/lPjVxg0BXJ4AAAAM/gandalf-happy.gif)](https://t.me/dmitrygill)
-
-## Hi! My name is Dmitry, I am a novice front-end developer.
+# Hi! My name is Dmitry, I am a novice front-end developer.
 #
 ### Мои навыки | My skills:
 
@@ -8,7 +6,6 @@
 ![Css](https://img.shields.io/badge/-Css-0022ff?style=for-the-badge&logo=css3&logoColor=fff)
 ![Scss](https://img.shields.io/badge/-Scss-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000)
-<img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
 
 
 ![Git](https://img.shields.io/badge/-Git-f75e5e?style=for-the-badge&logo=git&logoColor=000)
