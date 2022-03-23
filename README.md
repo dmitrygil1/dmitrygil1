@@ -1,6 +1,6 @@
-# Hi! My name is Dmitry, I am a novice front-end developer.
+# Hi! My name is Dmitry, I am a beginner front-end developer.
 #
-### Мои навыки | My skills:
+## Мои навыки | My skills:
 
 ![Html](https://img.shields.io/badge/-Html-ff5500?style=for-the-badge&logo=html5&logoColor=000)
 ![Css](https://img.shields.io/badge/-Css-0022ff?style=for-the-badge&logo=css3&logoColor=fff)
