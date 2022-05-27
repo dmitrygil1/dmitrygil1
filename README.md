@@ -14,7 +14,7 @@
 
 ![Figma](https://img.shields.io/badge/-Figma-0d8200?style=for-the-badge&logo=Figma&logoColor=fff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-011161?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-	ffa500?style=for-the-badge&logo=AdobeIllustrator&logoColor=fff)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-ffa500?style=for-the-badge&logo=AdobeIllustrator&logoColor=fff)
 
 ### Пользовался | Used:
 
