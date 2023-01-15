@@ -1,4 +1,4 @@
-# Hi! My name is Dmitry, I am a beginner front-end developer.
+# DMITRY //jun web-dev
 #
 ## Мои навыки | My skills:
 
