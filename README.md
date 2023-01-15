@@ -1,4 +1,4 @@
-# DMITRY //jun web-dev
+# DMITRY //jr web-dev
 #
 ## Мои навыки | My skills:
 
