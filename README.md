@@ -38,4 +38,6 @@
 #
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrygil1&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrygil1&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrygil1&show_icons=true&theme=highcontrast) 
+![Codewars](https://www.codewars.com/users/rsschool_ebd0e3bc4976bd09/badges/micro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrygil1&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
