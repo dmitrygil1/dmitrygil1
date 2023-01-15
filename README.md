@@ -37,7 +37,6 @@
 [![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=dmitrygil@mail.ru&from=otvet)
 #
 
-
+![Codewars]([https://www.codewars.com/users/rsschool_ebd0e3bc4976bd09/badges/micro](https://www.codewars.com/users/rsschool_ebd0e3bc4976bd09/badges/large)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrygil1&show_icons=true&theme=highcontrast) 
-![Codewars](https://www.codewars.com/users/rsschool_ebd0e3bc4976bd09/badges/micro)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitrygil1&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
