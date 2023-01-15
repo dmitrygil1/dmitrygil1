@@ -1,5 +1,13 @@
 # DMITRY //jr web-dev
 #
+#
+## Связаться | Contazts
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dmitrygill)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/dmitrygil.png/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/dmitrygil)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/dmitrygil1/)
+[![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=dmitrygil@mail.ru&from=otvet)
+#
 ## Мои навыки | My skills:
 
 ![Html](https://img.shields.io/badge/-Html-ff5500?style=for-the-badge&logo=html5&logoColor=000)
@@ -27,16 +35,8 @@
 ![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![MobX](https://img.shields.io/badge/-UNITY-turquoise?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/-ANGULAR-green?style=for-the-badge)
-#
-## Связаться
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dmitrygill)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/dmitrygil.png/)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/dmitrygil)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/dmitrygil1/)
-[![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](https://e.mail.ru/cgi-bin/sentmsg?To=dmitrygil@mail.ru&from=otvet)
 #
-
 ![Codewars](https://www.codewars.com/users/rsschool_ebd0e3bc4976bd09/badges/large)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitrygil1&show_icons=true&theme=highcontrast) 
