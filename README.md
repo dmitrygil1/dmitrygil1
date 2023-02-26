@@ -29,7 +29,6 @@
 ![Python](https://img.shields.io/badge/-PYTHON-green)
 ![C#](https://img.shields.io/badge/-C%23-blueviolet)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![EenjeneringStuff](https://img.shields.io/badge/ENJENEERING-STUFF-black)
 ![Figma](https://img.shields.io/badge/Figma-1c1c1c?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-218ee0?style=for-the-badge&logo=docker&logoColor=white)
 
