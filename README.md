@@ -9,6 +9,10 @@
 ![Html](https://img.shields.io/badge/-Html-ff5500?style=for-the-badge&logo=html5&logoColor=000)
 ![Css](https://img.shields.io/badge/-Css-0022ff?style=for-the-badge&logo=css3&logoColor=fff)
 ![Scss](https://img.shields.io/badge/-Scss-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
+![Sass](https://img.shields.io/badge/-Scss-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
+![Less](https://img.shields.io/badge/-Scss-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000)-->
 
 
@@ -24,12 +28,13 @@
 
 ![Python](https://img.shields.io/badge/-PYTHON-green)
 ![C#](https://img.shields.io/badge/-C%23-blueviolet)
+![Docker](https://img.shields.io/badge/Docker-218ee0?style=for-the-badge&logo=docker&logoColor=white)
 ![EenjeneringStuff](https://img.shields.io/badge/ENJENEERING-STUFF-black)
+![Figma](https://img.shields.io/badge/Figma-1c1c1c?style=for-the-badge&logo=figma&logoColor=white)
 
  
  ### Планирую изучить в будущем | I want to learn:
 ![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![MobX](https://img.shields.io/badge/-UNITY-turquoise?style=for-the-badge)
 ![Vue.js](https://img.shields.io/badge/-ANGULAR-green?style=for-the-badge)
 
 #
