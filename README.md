@@ -6,6 +6,7 @@
 [![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](mailto:dmitrygil@mail.ru)
 ## Мои навыки | My skills:
 
+![PHP](https://img.shields.io/badge/PHP-1a72b6?style=for-the-badge&logo=php&logoColor=white)
 ![Html](https://img.shields.io/badge/-Html-ff5500?style=for-the-badge&logo=html5&logoColor=000)
 ![Css](https://img.shields.io/badge/-Css-0022ff?style=for-the-badge&logo=css3&logoColor=fff)
 ![Scss](https://img.shields.io/badge/-Scss-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
@@ -29,6 +30,7 @@
 ![Python](https://img.shields.io/badge/-PYTHON-green)
 ![C#](https://img.shields.io/badge/-C%23-blueviolet)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![EenjeneringStuff](https://img.shields.io/badge/ENJENEERING-STUFF-black)
 ![Figma](https://img.shields.io/badge/Figma-1c1c1c?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-218ee0?style=for-the-badge&logo=docker&logoColor=white)
 
