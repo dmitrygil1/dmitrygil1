@@ -9,9 +9,10 @@
 ![Html](https://img.shields.io/badge/-Html-ff5500?style=for-the-badge&logo=html5&logoColor=000)
 ![Css](https://img.shields.io/badge/-Css-0022ff?style=for-the-badge&logo=css3&logoColor=fff)
 ![Scss](https://img.shields.io/badge/-Scss-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
-![Sass](https://img.shields.io/badge/-Scss-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
-![Less](https://img.shields.io/badge/-Scss-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
+![Sass](https://img.shields.io/badge/-Sass-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
+![Less](https://img.shields.io/badge/-Less-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JQuery](https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <!--![JavaScript](https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000)-->
 
