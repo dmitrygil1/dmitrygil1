@@ -36,7 +36,7 @@
  
  ### Планирую изучить в будущем | I want to learn:
 ![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-ANGULAR-green?style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/-ANGULAR-green?style=for-the-badge&logo=Vue.js&logoColor=white)
 
 #
 ![Codewars](https://www.codewars.com/users/rsschool_ebd0e3bc4976bd09/badges/large)
