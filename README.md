@@ -25,7 +25,7 @@
 ### Пользовался | Used:
 
 ![Python](https://img.shields.io/badge/-PYTHON-green)
-![C#](https://img.shields.io/badge/-C%23-blueviolet)
+![C#](https://img.shields.io/badge/C#-1a72b6?style=for-the-badge&logo=C#&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-011161?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-ffa500?style=for-the-badge&logo=AdobeIllustrator&logoColor=fff)
