@@ -13,7 +13,7 @@
 ![Sass](https://img.shields.io/badge/Sass-c06191?style=for-the-badge&logo=sass&logoColor=white)
 ![Less](https://img.shields.io/badge/Less-284a7e?style=for-the-badge&logo=less&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JQuery](https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JQuery](https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=black)
 
 
 
@@ -21,16 +21,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-101012?style=for-the-badge&logo=GitHub&logoColor=fff)
 
 
-![Figma](https://img.shields.io/badge/-Figma-0d8200?style=for-the-badge&logo=Figma&logoColor=fff)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-011161?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-ffa500?style=for-the-badge&logo=AdobeIllustrator&logoColor=fff)
 
 ### Пользовался | Used:
 
 ![Python](https://img.shields.io/badge/-PYTHON-green)
 ![C#](https://img.shields.io/badge/-C%23-blueviolet)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![EenjeneringStuff](https://img.shields.io/badge/ENJENEERING-STUFF-black)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-011161?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-ffa500?style=for-the-badge&logo=AdobeIllustrator&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-1c1c1c?style=for-the-badge&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-218ee0?style=for-the-badge&logo=docker&logoColor=white)
 
