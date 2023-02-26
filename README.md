@@ -9,8 +9,8 @@
 ![Html](https://img.shields.io/badge/-Html-ff5500?style=for-the-badge&logo=html5&logoColor=000)
 ![Css](https://img.shields.io/badge/-Css-0022ff?style=for-the-badge&logo=css3&logoColor=fff)
 ![Scss](https://img.shields.io/badge/-Scss-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
-![Sass](https://img.shields.io/badge/-Sass-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
-![Less](https://img.shields.io/badge/-Less-fc00a8?style=for-the-badge&logo=sass&logoColor=000)
+![Sass](https://img.shields.io/badge/Sass-c06191?style=for-the-badge&logo=sass&logoColor=white)  
+![Less](https://img.shields.io/badge/Less-284a7e?style=for-the-badge&logo=less&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JQuery](https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -29,9 +29,11 @@
 
 ![Python](https://img.shields.io/badge/-PYTHON-green)
 ![C#](https://img.shields.io/badge/-C%23-blueviolet)
-![Docker](https://img.shields.io/badge/Docker-218ee0?style=for-the-badge&logo=docker&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![EenjeneringStuff](https://img.shields.io/badge/ENJENEERING-STUFF-black)
 ![Figma](https://img.shields.io/badge/Figma-1c1c1c?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-218ee0?style=for-the-badge&logo=docker&logoColor=white)
+
 
  
  ### Планирую изучить в будущем | I want to learn:
