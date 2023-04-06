@@ -40,6 +40,7 @@
 
  
  ### Планирую изучить в будущем | I want to learn:
+![Laravel](https://img.shields.io/badge/-Laravel-white?style=for-the-badge&logo=Laravel&logoColor=red)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular&logoColor=white)
