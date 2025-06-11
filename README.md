@@ -14,11 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JQuery](https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=black)
 
-
 ![Git](https://img.shields.io/badge/-Git-f75e5e?style=for-the-badge&logo=git&logoColor=000)
-![GitHub](https://img.shields.io/badge/-GitHub-101012?style=for-the-badge&logo=GitHub&logoColor=fff)
-
-
 
 ### Пользовался | Used:
 
