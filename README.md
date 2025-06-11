@@ -1,7 +1,5 @@
 # DMITRY // Web-dev
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/dmitrygill)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/dmitrygil.png/)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/dmitrygil)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/dmitrygil1/)
 [![Mail](https://img.shields.io/badge/-Mail-090909?style=for-the-badge&logo=Mail&logoColor=4F7DB3)](mailto:dmitrygil@mail.ru)
 ## Мои навыки | My skills:
@@ -15,7 +13,6 @@
 ![Less](https://img.shields.io/badge/Less-284a7e?style=for-the-badge&logo=less&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JQuery](https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=black)
-
 
 
 ![Git](https://img.shields.io/badge/-Git-f75e5e?style=for-the-badge&logo=git&logoColor=000)
@@ -43,7 +40,6 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-white?style=for-the-badge&logo=Laravel&logoColor=red)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=for-the-badge&logo=Vue.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=Angular&logoColor=white)
 
 #
 ![Codewars](https://www.codewars.com/users/rsschool_ebd0e3bc4976bd09/badges/large)
